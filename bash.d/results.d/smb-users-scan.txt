@@ -1,0 +1,82 @@
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 09:57:34 2017 as: nmap --script smb-enum-users.nse -p 445 -oG ./scriptresult.d/smb-users-scan.txt 10.11.1.252
+Host: 10.11.1.252 ()	Status: Up
+Host: 10.11.1.252 ()	Ports: 445/filtered/tcp//microsoft-ds///
+# Nmap done at Mon Jun 26 09:57:34 2017 -- 1 IP address (1 host up) scanned in 1.08 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 11:14:51 2017 as: nmap --script smb-enum-users.nse -p 445 -oG ./results.d/smb-users-scan-10.11.1.5.txt 10.11.1.5
+Host: 10.11.1.5 ()	Status: Up
+Host: 10.11.1.5 ()	Ports: 445/open/tcp//microsoft-ds///
+# Nmap done at Mon Jun 26 11:15:09 2017 -- 1 IP address (1 host up) scanned in 17.62 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 11:15:09 2017 as: nmap --script smb-enum-users.nse -p 445 -oG ./results.d/smb-users-scan-10.11.1.8.txt 10.11.1.8
+Host: 10.11.1.8 ()	Status: Up
+Host: 10.11.1.8 ()	Ports: 445/open/tcp//microsoft-ds///
+# Nmap done at Mon Jun 26 11:15:13 2017 -- 1 IP address (1 host up) scanned in 4.61 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 11:15:13 2017 as: nmap --script smb-enum-users.nse -p 445 -oG ./results.d/smb-users-scan-10.11.1.10.txt 10.11.1.10
+Host: 10.11.1.10 ()	Status: Up
+Host: 10.11.1.10 ()	Ports: 445/open/tcp//microsoft-ds///
+# Nmap done at Mon Jun 26 11:15:16 2017 -- 1 IP address (1 host up) scanned in 2.28 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 11:15:16 2017 as: nmap --script smb-enum-users.nse -p 445 -oG ./results.d/smb-users-scan-10.11.1.22.txt 10.11.1.22
+Host: 10.11.1.22 ()	Status: Up
+Host: 10.11.1.22 ()	Ports: 445/closed/tcp//microsoft-ds///
+# Nmap done at Mon Jun 26 11:15:16 2017 -- 1 IP address (1 host up) scanned in 0.77 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 11:15:17 2017 as: nmap --script smb-enum-users.nse -p 445 -oG ./results.d/smb-users-scan-10.11.1.24.txt 10.11.1.24
+Host: 10.11.1.24 ()	Status: Up
+Host: 10.11.1.24 ()	Ports: 445/open/tcp//microsoft-ds///
+# Nmap done at Mon Jun 26 11:15:20 2017 -- 1 IP address (1 host up) scanned in 3.61 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 11:15:20 2017 as: nmap --script smb-enum-users.nse -p 445 -oG ./results.d/smb-users-scan-10.11.1.31.txt 10.11.1.31
+Host: 10.11.1.31 ()	Status: Up
+Host: 10.11.1.31 ()	Ports: 445/open/tcp//microsoft-ds///
+# Nmap done at Mon Jun 26 11:15:25 2017 -- 1 IP address (1 host up) scanned in 4.38 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 11:15:25 2017 as: nmap --script smb-enum-users.nse -p 445 -oG ./results.d/smb-users-scan-10.11.1.49.txt 10.11.1.49
+Host: 10.11.1.49 ()	Status: Up
+Host: 10.11.1.49 ()	Ports: 445/filtered/tcp//microsoft-ds///
+# Nmap done at Mon Jun 26 11:15:26 2017 -- 1 IP address (1 host up) scanned in 1.33 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 11:15:26 2017 as: nmap --script smb-enum-users.nse -p 445 -oG ./results.d/smb-users-scan-10.11.1.50.txt 10.11.1.50
+Host: 10.11.1.50 ()	Status: Up
+Host: 10.11.1.50 ()	Ports: 445/filtered/tcp//microsoft-ds///
+# Nmap done at Mon Jun 26 11:15:27 2017 -- 1 IP address (1 host up) scanned in 1.50 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 11:15:28 2017 as: nmap --script smb-enum-users.nse -p 445 -oG ./results.d/smb-users-scan-10.11.1.73.txt 10.11.1.73
+Host: 10.11.1.73 ()	Status: Up
+Host: 10.11.1.73 ()	Ports: 445/open/tcp//microsoft-ds///
+# Nmap done at Mon Jun 26 11:15:29 2017 -- 1 IP address (1 host up) scanned in 1.84 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 11:15:29 2017 as: nmap --script smb-enum-users.nse -p 445 -oG ./results.d/smb-users-scan-10.11.1.115.txt 10.11.1.115
+Host: 10.11.1.115 ()	Status: Up
+Host: 10.11.1.115 ()	Ports: 445/closed/tcp//microsoft-ds///
+# Nmap done at Mon Jun 26 11:15:30 2017 -- 1 IP address (1 host up) scanned in 0.73 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 11:15:30 2017 as: nmap --script smb-enum-users.nse -p 445 -oG ./results.d/smb-users-scan-10.11.1.128.txt 10.11.1.128
+Host: 10.11.1.128 ()	Status: Up
+Host: 10.11.1.128 ()	Ports: 445/open/tcp//microsoft-ds///
+# Nmap done at Mon Jun 26 11:15:36 2017 -- 1 IP address (1 host up) scanned in 5.51 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 11:15:36 2017 as: nmap --script smb-enum-users.nse -p 445 -oG ./results.d/smb-users-scan-10.11.1.136.txt 10.11.1.136
+Host: 10.11.1.136 ()	Status: Up
+Host: 10.11.1.136 ()	Ports: 445/open/tcp//microsoft-ds///
+# Nmap done at Mon Jun 26 11:15:39 2017 -- 1 IP address (1 host up) scanned in 3.19 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 11:15:39 2017 as: nmap --script smb-enum-users.nse -p 445 -oG ./results.d/smb-users-scan-10.11.1.145.txt 10.11.1.145
+Host: 10.11.1.145 ()	Status: Up
+Host: 10.11.1.145 ()	Ports: 445/open/tcp//microsoft-ds///
+# Nmap done at Mon Jun 26 11:15:41 2017 -- 1 IP address (1 host up) scanned in 1.69 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 11:15:41 2017 as: nmap --script smb-enum-users.nse -p 445 -oG ./results.d/smb-users-scan-10.11.1.202.txt 10.11.1.202
+Host: 10.11.1.202 ()	Status: Up
+Host: 10.11.1.202 ()	Ports: 445/open/tcp//microsoft-ds///
+# Nmap done at Mon Jun 26 11:15:46 2017 -- 1 IP address (1 host up) scanned in 4.89 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 11:15:46 2017 as: nmap --script smb-enum-users.nse -p 445 -oG ./results.d/smb-users-scan-10.11.1.218.txt 10.11.1.218
+Host: 10.11.1.218 ()	Status: Up
+Host: 10.11.1.218 ()	Ports: 445/open/tcp//microsoft-ds///
+# Nmap done at Mon Jun 26 11:15:48 2017 -- 1 IP address (1 host up) scanned in 2.26 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 11:15:48 2017 as: nmap --script smb-enum-users.nse -p 445 -oG ./results.d/smb-users-scan-10.11.1.220.txt 10.11.1.220
+Host: 10.11.1.220 ()	Status: Up
+Host: 10.11.1.220 ()	Ports: 445/open/tcp//microsoft-ds///
+# Nmap done at Mon Jun 26 11:15:51 2017 -- 1 IP address (1 host up) scanned in 3.03 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 11:15:51 2017 as: nmap --script smb-enum-users.nse -p 445 -oG ./results.d/smb-users-scan-10.11.1.223.txt 10.11.1.223
+# Nmap done at Mon Jun 26 11:15:52 2017 -- 1 IP address (0 hosts up) scanned in 0.83 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 11:15:52 2017 as: nmap --script smb-enum-users.nse -p 445 -oG ./results.d/smb-users-scan-10.11.1.227.txt 10.11.1.227
+Host: 10.11.1.227 ()	Status: Up
+Host: 10.11.1.227 ()	Ports: 445/open/tcp//microsoft-ds///
+# Nmap done at Mon Jun 26 11:15:57 2017 -- 1 IP address (1 host up) scanned in 5.32 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 11:15:57 2017 as: nmap --script smb-enum-users.nse -p 445 -oG ./results.d/smb-users-scan-10.11.1.229.txt 10.11.1.229
+Host: 10.11.1.229 ()	Status: Up
+Host: 10.11.1.229 ()	Ports: 445/filtered/tcp//microsoft-ds///
+# Nmap done at Mon Jun 26 11:15:59 2017 -- 1 IP address (1 host up) scanned in 1.78 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 11:15:59 2017 as: nmap --script smb-enum-users.nse -p 445 -oG ./results.d/smb-users-scan-10.11.1.230.txt 10.11.1.230
+Host: 10.11.1.230 ()	Status: Up
+Host: 10.11.1.230 ()	Ports: 445/open/tcp//microsoft-ds///
+# Nmap done at Mon Jun 26 11:16:01 2017 -- 1 IP address (1 host up) scanned in 2.16 seconds

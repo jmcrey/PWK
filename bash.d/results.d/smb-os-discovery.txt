@@ -1,0 +1,105 @@
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 10:55:11 2017 as: nmap -v -p 139,445 --script smb-os-discovery.nse -oG ./scriptresult.d/smb-os-discovery.txt 10.11.1.230
+# Ports scanned: TCP(2;139,445) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.11.1.230 ()	Status: Up
+Host: 10.11.1.230 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds//Windows 7 Ultimate N 7600 microsoft-ds/
+# Nmap done at Mon Jun 26 10:55:15 2017 -- 1 IP address (1 host up) scanned in 3.60 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 10:57:55 2017 as: nmap -v -p 139,445 --script smb-os-discovery.nse -oG ./scriptresult.d/smb-os-discovery-10.11.1.5.txt 10.11.1.5
+# Ports scanned: TCP(2;139,445) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.11.1.5 ()	Status: Up
+Host: 10.11.1.5 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds//Windows XP microsoft-ds/
+# Nmap done at Mon Jun 26 10:58:12 2017 -- 1 IP address (1 host up) scanned in 17.48 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 10:58:12 2017 as: nmap -v -p 139,445 --script smb-os-discovery.nse -oG ./scriptresult.d/smb-os-discovery-10.11.1.8.txt 10.11.1.8
+# Ports scanned: TCP(2;139,445) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.11.1.8 ()	Status: Up
+Host: 10.11.1.8 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds//Samba smbd 3.0.33-0.17.el4/
+# Nmap done at Mon Jun 26 10:58:14 2017 -- 1 IP address (1 host up) scanned in 1.73 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 10:58:14 2017 as: nmap -v -p 139,445 --script smb-os-discovery.nse -oG ./scriptresult.d/smb-os-discovery-10.11.1.10.txt 10.11.1.10
+# Ports scanned: TCP(2;139,445) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.11.1.10 ()	Status: Up
+Host: 10.11.1.10 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds//Windows Server 2003 3790 Service Pack 2 microsoft-ds/
+# Nmap done at Mon Jun 26 10:58:15 2017 -- 1 IP address (1 host up) scanned in 1.43 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 10:58:15 2017 as: nmap -v -p 139,445 --script smb-os-discovery.nse -oG ./scriptresult.d/smb-os-discovery-10.11.1.22.txt 10.11.1.22
+# Ports scanned: TCP(2;139,445) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.11.1.22 ()	Status: Up
+Host: 10.11.1.22 ()	Ports: 139/open/tcp//netbios-ssn///, 445/closed/tcp//microsoft-ds///
+# Nmap done at Mon Jun 26 10:58:16 2017 -- 1 IP address (1 host up) scanned in 0.94 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 10:58:16 2017 as: nmap -v -p 139,445 --script smb-os-discovery.nse -oG ./scriptresult.d/smb-os-discovery-10.11.1.24.txt 10.11.1.24
+# Ports scanned: TCP(2;139,445) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.11.1.24 ()	Status: Up
+Host: 10.11.1.24 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds//Samba smbd 3.0.26a/
+# Nmap done at Mon Jun 26 10:58:18 2017 -- 1 IP address (1 host up) scanned in 1.44 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 10:58:18 2017 as: nmap -v -p 139,445 --script smb-os-discovery.nse -oG ./scriptresult.d/smb-os-discovery-10.11.1.31.txt 10.11.1.31
+# Ports scanned: TCP(2;139,445) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.11.1.31 ()	Status: Up
+Host: 10.11.1.31 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds//Windows Server 2003 3790 Service Pack 1 microsoft-ds/
+# Nmap done at Mon Jun 26 10:58:19 2017 -- 1 IP address (1 host up) scanned in 1.44 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 10:58:19 2017 as: nmap -v -p 139,445 --script smb-os-discovery.nse -oG ./scriptresult.d/smb-os-discovery-10.11.1.49.txt 10.11.1.49
+# Ports scanned: TCP(2;139,445) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.11.1.49 ()	Status: Up
+Host: 10.11.1.49 ()	Ports: 139/open/tcp//netbios-ssn///, 445/filtered/tcp//microsoft-ds///
+# Nmap done at Mon Jun 26 10:58:24 2017 -- 1 IP address (1 host up) scanned in 5.12 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 10:58:25 2017 as: nmap -v -p 139,445 --script smb-os-discovery.nse -oG ./scriptresult.d/smb-os-discovery-10.11.1.50.txt 10.11.1.50
+# Ports scanned: TCP(2;139,445) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.11.1.50 ()	Status: Up
+Host: 10.11.1.50 ()	Ports: 139/open/tcp//netbios-ssn///, 445/filtered/tcp//microsoft-ds///
+# Nmap done at Mon Jun 26 10:58:29 2017 -- 1 IP address (1 host up) scanned in 4.42 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 10:58:29 2017 as: nmap -v -p 139,445 --script smb-os-discovery.nse -oG ./scriptresult.d/smb-os-discovery-10.11.1.73.txt 10.11.1.73
+# Ports scanned: TCP(2;139,445) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.11.1.73 ()	Status: Up
+Host: 10.11.1.73 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds//Windows 7 Professional 7601 Service Pack 1 microsoft-ds/
+# Nmap done at Mon Jun 26 10:58:32 2017 -- 1 IP address (1 host up) scanned in 2.85 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 10:58:32 2017 as: nmap -v -p 139,445 --script smb-os-discovery.nse -oG ./scriptresult.d/smb-os-discovery-10.11.1.115.txt 10.11.1.115
+# Ports scanned: TCP(2;139,445) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.11.1.115 ()	Status: Up
+Host: 10.11.1.115 ()	Ports: 139/open/tcp//netbios-ssn///, 445/closed/tcp//microsoft-ds///
+# Nmap done at Mon Jun 26 10:58:33 2017 -- 1 IP address (1 host up) scanned in 1.00 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 10:58:33 2017 as: nmap -v -p 139,445 --script smb-os-discovery.nse -oG ./scriptresult.d/smb-os-discovery-10.11.1.128.txt 10.11.1.128
+# Ports scanned: TCP(2;139,445) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.11.1.128 ()	Status: Up
+Host: 10.11.1.128 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds//Windows 2000 microsoft-ds/
+# Nmap done at Mon Jun 26 10:58:34 2017 -- 1 IP address (1 host up) scanned in 1.46 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 10:58:34 2017 as: nmap -v -p 139,445 --script smb-os-discovery.nse -oG ./scriptresult.d/smb-os-discovery-10.11.1.136.txt 10.11.1.136
+# Ports scanned: TCP(2;139,445) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.11.1.136 ()	Status: Up
+Host: 10.11.1.136 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds//Samba smbd 3.0.24/
+# Nmap done at Mon Jun 26 10:58:36 2017 -- 1 IP address (1 host up) scanned in 1.27 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 10:58:36 2017 as: nmap -v -p 139,445 --script smb-os-discovery.nse -oG ./scriptresult.d/smb-os-discovery-10.11.1.145.txt 10.11.1.145
+# Ports scanned: TCP(2;139,445) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.11.1.145 ()	Status: Up
+Host: 10.11.1.145 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds//Windows Server (R) 2008 Standard 6001 Service Pack 1 microsoft-ds/
+# Nmap done at Mon Jun 26 10:58:38 2017 -- 1 IP address (1 host up) scanned in 2.79 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 10:58:39 2017 as: nmap -v -p 139,445 --script smb-os-discovery.nse -oG ./scriptresult.d/smb-os-discovery-10.11.1.202.txt 10.11.1.202
+# Ports scanned: TCP(2;139,445) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.11.1.202 ()	Status: Up
+Host: 10.11.1.202 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds//Windows 2000 microsoft-ds/
+# Nmap done at Mon Jun 26 10:58:42 2017 -- 1 IP address (1 host up) scanned in 3.83 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 10:58:42 2017 as: nmap -v -p 139,445 --script smb-os-discovery.nse -oG ./scriptresult.d/smb-os-discovery-10.11.1.218.txt 10.11.1.218
+# Ports scanned: TCP(2;139,445) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.11.1.218 ()	Status: Up
+Host: 10.11.1.218 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds//Windows 7 Professional 7601 Service Pack 1 microsoft-ds/
+# Nmap done at Mon Jun 26 10:58:45 2017 -- 1 IP address (1 host up) scanned in 2.88 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 10:58:45 2017 as: nmap -v -p 139,445 --script smb-os-discovery.nse -oG ./scriptresult.d/smb-os-discovery-10.11.1.220.txt 10.11.1.220
+# Ports scanned: TCP(2;139,445) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.11.1.220 ()	Status: Up
+Host: 10.11.1.220 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds//Windows Server 2008 R2 Standard 7601 Service Pack 1 microsoft-ds/
+# Nmap done at Mon Jun 26 10:58:48 2017 -- 1 IP address (1 host up) scanned in 2.52 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 10:58:48 2017 as: nmap -v -p 139,445 --script smb-os-discovery.nse -oG ./scriptresult.d/smb-os-discovery-10.11.1.223.txt 10.11.1.223
+# Ports scanned: TCP(2;139,445) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.11.1.223 ()	Status: Up
+Host: 10.11.1.223 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds//Windows Server (R) 2008 Standard 6001 Service Pack 1 microsoft-ds/
+# Nmap done at Mon Jun 26 10:58:51 2017 -- 1 IP address (1 host up) scanned in 2.75 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 10:58:51 2017 as: nmap -v -p 139,445 --script smb-os-discovery.nse -oG ./scriptresult.d/smb-os-discovery-10.11.1.227.txt 10.11.1.227
+# Ports scanned: TCP(2;139,445) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.11.1.227 ()	Status: Up
+Host: 10.11.1.227 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds//Windows 2000 microsoft-ds/
+# Nmap done at Mon Jun 26 10:58:52 2017 -- 1 IP address (1 host up) scanned in 1.22 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 10:58:52 2017 as: nmap -v -p 139,445 --script smb-os-discovery.nse -oG ./scriptresult.d/smb-os-discovery-10.11.1.229.txt 10.11.1.229
+# Ports scanned: TCP(2;139,445) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.11.1.229 ()	Status: Up
+Host: 10.11.1.229 ()	Ports: 139/open/tcp//netbios-ssn//Windows Server 2003 3790 Service Pack 1 netbios-ssn/, 445/filtered/tcp//microsoft-ds///
+# Nmap done at Mon Jun 26 10:58:55 2017 -- 1 IP address (1 host up) scanned in 2.94 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 10:58:55 2017 as: nmap -v -p 139,445 --script smb-os-discovery.nse -oG ./scriptresult.d/smb-os-discovery-10.11.1.230.txt 10.11.1.230
+# Ports scanned: TCP(2;139,445) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.11.1.230 ()	Status: Up
+Host: 10.11.1.230 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds//Windows 7 Ultimate N 7600 microsoft-ds/
+# Nmap done at Mon Jun 26 10:58:58 2017 -- 1 IP address (1 host up) scanned in 3.65 seconds

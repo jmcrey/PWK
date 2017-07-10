@@ -1,0 +1,301 @@
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 11:14:33 2017 as: nmap -v -p 139,445 -oG ./results.d/smb-running.txt 10.11.1.1-254
+# Ports scanned: TCP(2;139,445) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.11.1.1 ()	Status: Down
+Host: 10.11.1.2 ()	Status: Down
+Host: 10.11.1.3 ()	Status: Down
+Host: 10.11.1.4 ()	Status: Down
+Host: 10.11.1.6 ()	Status: Down
+Host: 10.11.1.9 ()	Status: Down
+Host: 10.11.1.11 ()	Status: Down
+Host: 10.11.1.12 ()	Status: Down
+Host: 10.11.1.15 ()	Status: Down
+Host: 10.11.1.16 ()	Status: Down
+Host: 10.11.1.17 ()	Status: Down
+Host: 10.11.1.18 ()	Status: Down
+Host: 10.11.1.19 ()	Status: Down
+Host: 10.11.1.20 ()	Status: Down
+Host: 10.11.1.21 ()	Status: Down
+Host: 10.11.1.23 ()	Status: Down
+Host: 10.11.1.25 ()	Status: Down
+Host: 10.11.1.26 ()	Status: Down
+Host: 10.11.1.27 ()	Status: Down
+Host: 10.11.1.28 ()	Status: Down
+Host: 10.11.1.29 ()	Status: Down
+Host: 10.11.1.30 ()	Status: Down
+Host: 10.11.1.32 ()	Status: Down
+Host: 10.11.1.33 ()	Status: Down
+Host: 10.11.1.34 ()	Status: Down
+Host: 10.11.1.36 ()	Status: Down
+Host: 10.11.1.37 ()	Status: Down
+Host: 10.11.1.38 ()	Status: Down
+Host: 10.11.1.40 ()	Status: Down
+Host: 10.11.1.41 ()	Status: Down
+Host: 10.11.1.42 ()	Status: Down
+Host: 10.11.1.43 ()	Status: Down
+Host: 10.11.1.45 ()	Status: Down
+Host: 10.11.1.46 ()	Status: Down
+Host: 10.11.1.47 ()	Status: Down
+Host: 10.11.1.48 ()	Status: Down
+Host: 10.11.1.51 ()	Status: Down
+Host: 10.11.1.52 ()	Status: Down
+Host: 10.11.1.53 ()	Status: Down
+Host: 10.11.1.54 ()	Status: Down
+Host: 10.11.1.55 ()	Status: Down
+Host: 10.11.1.56 ()	Status: Down
+Host: 10.11.1.57 ()	Status: Down
+Host: 10.11.1.58 ()	Status: Down
+Host: 10.11.1.59 ()	Status: Down
+Host: 10.11.1.60 ()	Status: Down
+Host: 10.11.1.61 ()	Status: Down
+Host: 10.11.1.62 ()	Status: Down
+Host: 10.11.1.63 ()	Status: Down
+Host: 10.11.1.64 ()	Status: Down
+Host: 10.11.1.65 ()	Status: Down
+Host: 10.11.1.66 ()	Status: Down
+Host: 10.11.1.67 ()	Status: Down
+Host: 10.11.1.68 ()	Status: Down
+Host: 10.11.1.69 ()	Status: Down
+Host: 10.11.1.70 ()	Status: Down
+Host: 10.11.1.74 ()	Status: Down
+Host: 10.11.1.75 ()	Status: Down
+Host: 10.11.1.76 ()	Status: Down
+Host: 10.11.1.77 ()	Status: Down
+Host: 10.11.1.78 ()	Status: Down
+Host: 10.11.1.79 ()	Status: Down
+Host: 10.11.1.80 ()	Status: Down
+Host: 10.11.1.81 ()	Status: Down
+Host: 10.11.1.82 ()	Status: Down
+Host: 10.11.1.83 ()	Status: Down
+Host: 10.11.1.84 ()	Status: Down
+Host: 10.11.1.85 ()	Status: Down
+Host: 10.11.1.86 ()	Status: Down
+Host: 10.11.1.87 ()	Status: Down
+Host: 10.11.1.88 ()	Status: Down
+Host: 10.11.1.89 ()	Status: Down
+Host: 10.11.1.90 ()	Status: Down
+Host: 10.11.1.91 ()	Status: Down
+Host: 10.11.1.92 ()	Status: Down
+Host: 10.11.1.93 ()	Status: Down
+Host: 10.11.1.94 ()	Status: Down
+Host: 10.11.1.95 ()	Status: Down
+Host: 10.11.1.96 ()	Status: Down
+Host: 10.11.1.97 ()	Status: Down
+Host: 10.11.1.98 ()	Status: Down
+Host: 10.11.1.99 ()	Status: Down
+Host: 10.11.1.100 ()	Status: Down
+Host: 10.11.1.101 ()	Status: Down
+Host: 10.11.1.102 ()	Status: Down
+Host: 10.11.1.103 ()	Status: Down
+Host: 10.11.1.104 ()	Status: Down
+Host: 10.11.1.105 ()	Status: Down
+Host: 10.11.1.106 ()	Status: Down
+Host: 10.11.1.107 ()	Status: Down
+Host: 10.11.1.108 ()	Status: Down
+Host: 10.11.1.109 ()	Status: Down
+Host: 10.11.1.110 ()	Status: Down
+Host: 10.11.1.111 ()	Status: Down
+Host: 10.11.1.112 ()	Status: Down
+Host: 10.11.1.113 ()	Status: Down
+Host: 10.11.1.114 ()	Status: Down
+Host: 10.11.1.117 ()	Status: Down
+Host: 10.11.1.118 ()	Status: Down
+Host: 10.11.1.119 ()	Status: Down
+Host: 10.11.1.120 ()	Status: Down
+Host: 10.11.1.121 ()	Status: Down
+Host: 10.11.1.122 ()	Status: Down
+Host: 10.11.1.123 ()	Status: Down
+Host: 10.11.1.124 ()	Status: Down
+Host: 10.11.1.126 ()	Status: Down
+Host: 10.11.1.127 ()	Status: Down
+Host: 10.11.1.129 ()	Status: Down
+Host: 10.11.1.130 ()	Status: Down
+Host: 10.11.1.131 ()	Status: Down
+Host: 10.11.1.132 ()	Status: Down
+Host: 10.11.1.134 ()	Status: Down
+Host: 10.11.1.135 ()	Status: Down
+Host: 10.11.1.137 ()	Status: Down
+Host: 10.11.1.138 ()	Status: Down
+Host: 10.11.1.139 ()	Status: Down
+Host: 10.11.1.140 ()	Status: Down
+Host: 10.11.1.142 ()	Status: Down
+Host: 10.11.1.143 ()	Status: Down
+Host: 10.11.1.144 ()	Status: Down
+Host: 10.11.1.147 ()	Status: Down
+Host: 10.11.1.148 ()	Status: Down
+Host: 10.11.1.149 ()	Status: Down
+Host: 10.11.1.150 ()	Status: Down
+Host: 10.11.1.151 ()	Status: Down
+Host: 10.11.1.152 ()	Status: Down
+Host: 10.11.1.153 ()	Status: Down
+Host: 10.11.1.154 ()	Status: Down
+Host: 10.11.1.155 ()	Status: Down
+Host: 10.11.1.156 ()	Status: Down
+Host: 10.11.1.157 ()	Status: Down
+Host: 10.11.1.158 ()	Status: Down
+Host: 10.11.1.159 ()	Status: Down
+Host: 10.11.1.160 ()	Status: Down
+Host: 10.11.1.161 ()	Status: Down
+Host: 10.11.1.162 ()	Status: Down
+Host: 10.11.1.163 ()	Status: Down
+Host: 10.11.1.164 ()	Status: Down
+Host: 10.11.1.165 ()	Status: Down
+Host: 10.11.1.166 ()	Status: Down
+Host: 10.11.1.167 ()	Status: Down
+Host: 10.11.1.168 ()	Status: Down
+Host: 10.11.1.169 ()	Status: Down
+Host: 10.11.1.170 ()	Status: Down
+Host: 10.11.1.171 ()	Status: Down
+Host: 10.11.1.172 ()	Status: Down
+Host: 10.11.1.173 ()	Status: Down
+Host: 10.11.1.174 ()	Status: Down
+Host: 10.11.1.175 ()	Status: Down
+Host: 10.11.1.176 ()	Status: Down
+Host: 10.11.1.177 ()	Status: Down
+Host: 10.11.1.178 ()	Status: Down
+Host: 10.11.1.179 ()	Status: Down
+Host: 10.11.1.180 ()	Status: Down
+Host: 10.11.1.181 ()	Status: Down
+Host: 10.11.1.182 ()	Status: Down
+Host: 10.11.1.183 ()	Status: Down
+Host: 10.11.1.184 ()	Status: Down
+Host: 10.11.1.185 ()	Status: Down
+Host: 10.11.1.186 ()	Status: Down
+Host: 10.11.1.187 ()	Status: Down
+Host: 10.11.1.188 ()	Status: Down
+Host: 10.11.1.189 ()	Status: Down
+Host: 10.11.1.190 ()	Status: Down
+Host: 10.11.1.191 ()	Status: Down
+Host: 10.11.1.192 ()	Status: Down
+Host: 10.11.1.193 ()	Status: Down
+Host: 10.11.1.194 ()	Status: Down
+Host: 10.11.1.195 ()	Status: Down
+Host: 10.11.1.196 ()	Status: Down
+Host: 10.11.1.197 ()	Status: Down
+Host: 10.11.1.198 ()	Status: Down
+Host: 10.11.1.199 ()	Status: Down
+Host: 10.11.1.200 ()	Status: Down
+Host: 10.11.1.201 ()	Status: Down
+Host: 10.11.1.203 ()	Status: Down
+Host: 10.11.1.204 ()	Status: Down
+Host: 10.11.1.205 ()	Status: Down
+Host: 10.11.1.206 ()	Status: Down
+Host: 10.11.1.207 ()	Status: Down
+Host: 10.11.1.208 ()	Status: Down
+Host: 10.11.1.210 ()	Status: Down
+Host: 10.11.1.211 ()	Status: Down
+Host: 10.11.1.212 ()	Status: Down
+Host: 10.11.1.213 ()	Status: Down
+Host: 10.11.1.214 ()	Status: Down
+Host: 10.11.1.215 ()	Status: Down
+Host: 10.11.1.216 ()	Status: Down
+Host: 10.11.1.222 ()	Status: Down
+Host: 10.11.1.224 ()	Status: Down
+Host: 10.11.1.225 ()	Status: Down
+Host: 10.11.1.228 ()	Status: Down
+Host: 10.11.1.231 ()	Status: Down
+Host: 10.11.1.232 ()	Status: Down
+Host: 10.11.1.233 ()	Status: Down
+Host: 10.11.1.235 ()	Status: Down
+Host: 10.11.1.236 ()	Status: Down
+Host: 10.11.1.239 ()	Status: Down
+Host: 10.11.1.240 ()	Status: Down
+Host: 10.11.1.241 ()	Status: Down
+Host: 10.11.1.242 ()	Status: Down
+Host: 10.11.1.243 ()	Status: Down
+Host: 10.11.1.244 ()	Status: Down
+Host: 10.11.1.245 ()	Status: Down
+Host: 10.11.1.246 ()	Status: Down
+Host: 10.11.1.248 ()	Status: Down
+Host: 10.11.1.249 ()	Status: Down
+Host: 10.11.1.250 ()	Status: Down
+Host: 10.11.1.253 ()	Status: Down
+Host: 10.11.1.254 ()	Status: Down
+Host: 10.11.1.5 ()	Status: Up
+Host: 10.11.1.5 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds///
+Host: 10.11.1.7 ()	Status: Up
+Host: 10.11.1.7 ()	Ports: 139/filtered/tcp//netbios-ssn///, 445/filtered/tcp//microsoft-ds///
+Host: 10.11.1.8 ()	Status: Up
+Host: 10.11.1.8 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds///
+Host: 10.11.1.10 ()	Status: Up
+Host: 10.11.1.10 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds///
+Host: 10.11.1.13 ()	Status: Up
+Host: 10.11.1.13 ()	Ports: 139/filtered/tcp//netbios-ssn///, 445/filtered/tcp//microsoft-ds///
+Host: 10.11.1.14 ()	Status: Up
+Host: 10.11.1.14 ()	Ports: 139/filtered/tcp//netbios-ssn///, 445/filtered/tcp//microsoft-ds///
+Host: 10.11.1.22 ()	Status: Up
+Host: 10.11.1.22 ()	Ports: 139/open/tcp//netbios-ssn///, 445/closed/tcp//microsoft-ds///
+Host: 10.11.1.24 ()	Status: Up
+Host: 10.11.1.24 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds///
+Host: 10.11.1.31 ()	Status: Up
+Host: 10.11.1.31 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds///
+Host: 10.11.1.35 ()	Status: Up
+Host: 10.11.1.35 ()	Ports: 139/filtered/tcp//netbios-ssn///, 445/filtered/tcp//microsoft-ds///
+Host: 10.11.1.39 ()	Status: Up
+Host: 10.11.1.39 ()	Ports: 139/filtered/tcp//netbios-ssn///, 445/filtered/tcp//microsoft-ds///
+Host: 10.11.1.44 ()	Status: Up
+Host: 10.11.1.44 ()	Ports: 139/closed/tcp//netbios-ssn///, 445/closed/tcp//microsoft-ds///
+Host: 10.11.1.49 ()	Status: Up
+Host: 10.11.1.49 ()	Ports: 139/open/tcp//netbios-ssn///, 445/filtered/tcp//microsoft-ds///
+Host: 10.11.1.50 ()	Status: Up
+Host: 10.11.1.50 ()	Ports: 139/open/tcp//netbios-ssn///, 445/filtered/tcp//microsoft-ds///
+Host: 10.11.1.71 ()	Status: Up
+Host: 10.11.1.71 ()	Ports: 139/closed/tcp//netbios-ssn///, 445/closed/tcp//microsoft-ds///
+Host: 10.11.1.72 ()	Status: Up
+Host: 10.11.1.72 ()	Ports: 139/closed/tcp//netbios-ssn///, 445/closed/tcp//microsoft-ds///
+Host: 10.11.1.73 ()	Status: Up
+Host: 10.11.1.73 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds///
+Host: 10.11.1.115 ()	Status: Up
+Host: 10.11.1.115 ()	Ports: 139/open/tcp//netbios-ssn///, 445/closed/tcp//microsoft-ds///
+Host: 10.11.1.116 ()	Status: Up
+Host: 10.11.1.116 ()	Ports: 139/closed/tcp//netbios-ssn///, 445/closed/tcp//microsoft-ds///
+Host: 10.11.1.125 ()	Status: Up
+Host: 10.11.1.125 ()	Ports: 139/filtered/tcp//netbios-ssn///, 445/filtered/tcp//microsoft-ds///
+Host: 10.11.1.128 ()	Status: Up
+Host: 10.11.1.128 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds///
+Host: 10.11.1.133 ()	Status: Up
+Host: 10.11.1.133 ()	Ports: 139/closed/tcp//netbios-ssn///, 445/closed/tcp//microsoft-ds///
+Host: 10.11.1.136 ()	Status: Up
+Host: 10.11.1.136 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds///
+Host: 10.11.1.141 ()	Status: Up
+Host: 10.11.1.141 ()	Ports: 139/closed/tcp//netbios-ssn///, 445/closed/tcp//microsoft-ds///
+Host: 10.11.1.145 ()	Status: Up
+Host: 10.11.1.145 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds///
+Host: 10.11.1.146 ()	Status: Up
+Host: 10.11.1.146 ()	Ports: 139/closed/tcp//netbios-ssn///, 445/closed/tcp//microsoft-ds///
+Host: 10.11.1.202 ()	Status: Up
+Host: 10.11.1.202 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds///
+Host: 10.11.1.209 ()	Status: Up
+Host: 10.11.1.209 ()	Ports: 139/closed/tcp//netbios-ssn///, 445/closed/tcp//microsoft-ds///
+Host: 10.11.1.217 ()	Status: Up
+Host: 10.11.1.217 ()	Ports: 139/closed/tcp//netbios-ssn///, 445/closed/tcp//microsoft-ds///
+Host: 10.11.1.218 ()	Status: Up
+Host: 10.11.1.218 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds///
+Host: 10.11.1.219 ()	Status: Up
+Host: 10.11.1.219 ()	Ports: 139/filtered/tcp//netbios-ssn///, 445/filtered/tcp//microsoft-ds///
+Host: 10.11.1.220 ()	Status: Up
+Host: 10.11.1.220 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds///
+Host: 10.11.1.221 ()	Status: Up
+Host: 10.11.1.221 ()	Ports: 139/filtered/tcp//netbios-ssn///, 445/filtered/tcp//microsoft-ds///
+Host: 10.11.1.223 ()	Status: Up
+Host: 10.11.1.223 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds///
+Host: 10.11.1.226 ()	Status: Up
+Host: 10.11.1.226 ()	Ports: 139/filtered/tcp//netbios-ssn///, 445/filtered/tcp//microsoft-ds///
+Host: 10.11.1.227 ()	Status: Up
+Host: 10.11.1.227 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds///
+Host: 10.11.1.229 ()	Status: Up
+Host: 10.11.1.229 ()	Ports: 139/open/tcp//netbios-ssn///, 445/filtered/tcp//microsoft-ds///
+Host: 10.11.1.230 ()	Status: Up
+Host: 10.11.1.230 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds///
+Host: 10.11.1.234 ()	Status: Up
+Host: 10.11.1.234 ()	Ports: 139/closed/tcp//netbios-ssn///, 445/closed/tcp//microsoft-ds///
+Host: 10.11.1.237 ()	Status: Up
+Host: 10.11.1.237 ()	Ports: 139/closed/tcp//netbios-ssn///, 445/closed/tcp//microsoft-ds///
+Host: 10.11.1.238 ()	Status: Up
+Host: 10.11.1.238 ()	Ports: 139/closed/tcp//netbios-ssn///, 445/closed/tcp//microsoft-ds///
+Host: 10.11.1.247 ()	Status: Up
+Host: 10.11.1.247 ()	Ports: 139/filtered/tcp//netbios-ssn///, 445/filtered/tcp//microsoft-ds///
+Host: 10.11.1.251 ()	Status: Up
+Host: 10.11.1.251 ()	Ports: 139/filtered/tcp//netbios-ssn///, 445/filtered/tcp//microsoft-ds///
+Host: 10.11.1.252 ()	Status: Up
+Host: 10.11.1.252 ()	Ports: 139/filtered/tcp//netbios-ssn///, 445/filtered/tcp//microsoft-ds///
+# Nmap done at Mon Jun 26 11:14:51 2017 -- 254 IP addresses (44 hosts up) scanned in 18.12 seconds

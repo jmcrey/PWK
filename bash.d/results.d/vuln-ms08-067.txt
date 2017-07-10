@@ -1,0 +1,70 @@
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 11:18:19 2017 as: nmap -v -p 139,445 --script=smb-vuln-ms08-067 --script-args=unsafe=1 -oG ./results.d/vuln-ms08-067-10.11.1.230.txt 10.11.1.230
+# Ports scanned: TCP(2;139,445) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.11.1.230 ()	Status: Up
+Host: 10.11.1.230 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds///
+# Nmap done at Mon Jun 26 11:18:26 2017 -- 1 IP address (1 host up) scanned in 7.10 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 11:18:26 2017 as: nmap -v -p 139,445 --script=smb-vuln-ms08-067 --script-args=unsafe=1 -oG ./results.d/vuln-ms08-067-10.11.1.5.txt 10.11.1.5
+# Ports scanned: TCP(2;139,445) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.11.1.5 ()	Status: Up
+Host: 10.11.1.5 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds///
+# Nmap done at Mon Jun 26 11:18:42 2017 -- 1 IP address (1 host up) scanned in 16.78 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 11:18:43 2017 as: nmap -v -p 139,445 --script=smb-vuln-ms08-067 --script-args=unsafe=1 -oG ./results.d/vuln-ms08-067-10.11.1.10.txt 10.11.1.10
+# Ports scanned: TCP(2;139,445) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.11.1.10 ()	Status: Up
+Host: 10.11.1.10 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds///
+# Nmap done at Mon Jun 26 11:18:44 2017 -- 1 IP address (1 host up) scanned in 1.66 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 11:18:44 2017 as: nmap -v -p 139,445 --script=smb-vuln-ms08-067 --script-args=unsafe=1 -oG ./results.d/vuln-ms08-067-10.11.1.31.txt 10.11.1.31
+# Ports scanned: TCP(2;139,445) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.11.1.31 ()	Status: Up
+Host: 10.11.1.31 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds///
+# Nmap done at Mon Jun 26 11:18:46 2017 -- 1 IP address (1 host up) scanned in 1.68 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 11:18:46 2017 as: nmap -v -p 139,445 --script=smb-vuln-ms08-067 --script-args=unsafe=1 -oG ./results.d/vuln-ms08-067-10.11.1.73.txt 10.11.1.73
+# Ports scanned: TCP(2;139,445) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.11.1.73 ()	Status: Up
+Host: 10.11.1.73 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds///
+# Nmap done at Mon Jun 26 11:18:49 2017 -- 1 IP address (1 host up) scanned in 3.25 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 11:18:49 2017 as: nmap -v -p 139,445 --script=smb-vuln-ms08-067 --script-args=unsafe=1 -oG ./results.d/vuln-ms08-067-10.11.1.128.txt 10.11.1.128
+# Ports scanned: TCP(2;139,445) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.11.1.128 ()	Status: Up
+Host: 10.11.1.128 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds///
+# Nmap done at Mon Jun 26 11:18:51 2017 -- 1 IP address (1 host up) scanned in 1.29 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 11:18:51 2017 as: nmap -v -p 139,445 --script=smb-vuln-ms08-067 --script-args=unsafe=1 -oG ./results.d/vuln-ms08-067-10.11.1.145.txt 10.11.1.145
+# Ports scanned: TCP(2;139,445) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.11.1.145 ()	Status: Up
+Host: 10.11.1.145 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds///
+# Nmap done at Mon Jun 26 11:18:54 2017 -- 1 IP address (1 host up) scanned in 3.44 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 11:18:54 2017 as: nmap -v -p 139,445 --script=smb-vuln-ms08-067 --script-args=unsafe=1 -oG ./results.d/vuln-ms08-067-10.11.1.202.txt 10.11.1.202
+# Ports scanned: TCP(2;139,445) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.11.1.202 ()	Status: Up
+Host: 10.11.1.202 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds///
+# Nmap done at Mon Jun 26 11:18:56 2017 -- 1 IP address (1 host up) scanned in 1.49 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 11:18:56 2017 as: nmap -v -p 139,445 --script=smb-vuln-ms08-067 --script-args=unsafe=1 -oG ./results.d/vuln-ms08-067-10.11.1.218.txt 10.11.1.218
+# Ports scanned: TCP(2;139,445) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.11.1.218 ()	Status: Up
+Host: 10.11.1.218 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds///
+# Nmap done at Mon Jun 26 11:18:58 2017 -- 1 IP address (1 host up) scanned in 2.65 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 11:18:58 2017 as: nmap -v -p 139,445 --script=smb-vuln-ms08-067 --script-args=unsafe=1 -oG ./results.d/vuln-ms08-067-10.11.1.220.txt 10.11.1.220
+# Ports scanned: TCP(2;139,445) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.11.1.220 ()	Status: Up
+Host: 10.11.1.220 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds///
+# Nmap done at Mon Jun 26 11:19:01 2017 -- 1 IP address (1 host up) scanned in 3.02 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 11:19:01 2017 as: nmap -v -p 139,445 --script=smb-vuln-ms08-067 --script-args=unsafe=1 -oG ./results.d/vuln-ms08-067-10.11.1.223.txt 10.11.1.223
+# Ports scanned: TCP(2;139,445) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.11.1.223 ()	Status: Up
+Host: 10.11.1.223 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds///
+# Nmap done at Mon Jun 26 11:19:08 2017 -- 1 IP address (1 host up) scanned in 6.50 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 11:19:08 2017 as: nmap -v -p 139,445 --script=smb-vuln-ms08-067 --script-args=unsafe=1 -oG ./results.d/vuln-ms08-067-10.11.1.227.txt 10.11.1.227
+# Ports scanned: TCP(2;139,445) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.11.1.227 ()	Status: Up
+Host: 10.11.1.227 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds///
+# Nmap done at Mon Jun 26 11:19:09 2017 -- 1 IP address (1 host up) scanned in 1.52 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 11:19:10 2017 as: nmap -v -p 139,445 --script=smb-vuln-ms08-067 --script-args=unsafe=1 -oG ./results.d/vuln-ms08-067-10.11.1.229.txt 10.11.1.229
+# Ports scanned: TCP(2;139,445) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.11.1.229 ()	Status: Up
+Host: 10.11.1.229 ()	Ports: 139/open/tcp//netbios-ssn///, 445/filtered/tcp//microsoft-ds///
+# Nmap done at Mon Jun 26 11:19:13 2017 -- 1 IP address (1 host up) scanned in 3.21 seconds
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 11:19:13 2017 as: nmap -v -p 139,445 --script=smb-vuln-ms08-067 --script-args=unsafe=1 -oG ./results.d/vuln-ms08-067-10.11.1.230.txt 10.11.1.230
+# Ports scanned: TCP(2;139,445) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.11.1.230 ()	Status: Up
+Host: 10.11.1.230 ()	Ports: 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds///
+# Nmap done at Mon Jun 26 11:19:15 2017 -- 1 IP address (1 host up) scanned in 2.02 seconds

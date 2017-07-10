@@ -1,0 +1,26 @@
+Using domain server:
+Name: ns2.megacorpone.com.
+Address: 38.100.193.80#53
+Aliases: 
+
+megacorpone.com name server ns1.megacorpone.com.
+megacorpone.com name server ns2.megacorpone.com.
+megacorpone.com name server ns3.megacorpone.com.
+admin.megacorpone.com has address 38.100.193.83
+beta.megacorpone.com has address 38.100.193.69
+fs1.megacorpone.com has address 38.100.193.82
+intranet.megacorpone.com has address 38.100.193.81
+mail.megacorpone.com has address 38.100.193.84
+mail2.megacorpone.com has address 38.100.193.73
+ns1.megacorpone.com has address 38.100.193.70
+ns2.megacorpone.com has address 38.100.193.80
+ns3.megacorpone.com has address 38.100.193.90
+router.megacorpone.com has address 38.100.193.91
+siem.megacorpone.com has address 38.100.193.89
+snmp.megacorpone.com has address 38.100.193.85
+support.megacorpone.com has address 173.246.47.170
+syslog.megacorpone.com has address 38.100.193.66
+test.megacorpone.com has address 38.100.193.67
+vpn.megacorpone.com has address 38.100.193.77
+www.megacorpone.com has address 38.100.193.76
+www2.megacorpone.com has address 38.100.193.79

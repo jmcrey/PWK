@@ -1,0 +1,4 @@
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 09:31:25 2017 as: nmap -p 80 -oG ./scriptresult.d/open-xports.txt 10.11.1.252
+Host: 10.11.1.252 ()	Status: Up
+Host: 10.11.1.252 ()	Ports: 80/filtered/tcp//http///
+# Nmap done at Mon Jun 26 09:31:26 2017 -- 1 IP address (1 host up) scanned in 0.91 seconds

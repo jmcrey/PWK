@@ -1,0 +1,27 @@
+# Nmap 7.25BETA2 scan initiated Mon Jun 26 08:59:10 2017 as: nmap -sn -oG ping-sweep-mega.txt 38.100.193.66-90
+Host: 38.100.193.66 (syslog.megacorpone.com)	Status: Up
+Host: 38.100.193.67 ()	Status: Up
+Host: 38.100.193.68 ()	Status: Up
+Host: 38.100.193.69 (beta.megacorpone.com)	Status: Up
+Host: 38.100.193.70 (ns1.megacorpone.com)	Status: Up
+Host: 38.100.193.71 ()	Status: Up
+Host: 38.100.193.72 (admin.megacorpone.com)	Status: Up
+Host: 38.100.193.73 (mail2.megacorpone.com)	Status: Up
+Host: 38.100.193.74 ()	Status: Up
+Host: 38.100.193.75 ()	Status: Up
+Host: 38.100.193.76 (www.megacorpone.com)	Status: Up
+Host: 38.100.193.77 (vpn.megacorpone.com)	Status: Up
+Host: 38.100.193.78 ()	Status: Up
+Host: 38.100.193.79 ()	Status: Up
+Host: 38.100.193.80 (ns2.megacorpone.com)	Status: Up
+Host: 38.100.193.81 ()	Status: Up
+Host: 38.100.193.82 ()	Status: Up
+Host: 38.100.193.83 ()	Status: Up
+Host: 38.100.193.84 (mail.megacorpone.com)	Status: Up
+Host: 38.100.193.85 (snmp.megacorpone.com)	Status: Up
+Host: 38.100.193.86 ()	Status: Up
+Host: 38.100.193.87 ()	Status: Up
+Host: 38.100.193.88 ()	Status: Up
+Host: 38.100.193.89 (siem.megacorpone.com)	Status: Up
+Host: 38.100.193.90 (ns3.megacorpone.com)	Status: Up
+# Nmap done at Mon Jun 26 08:59:12 2017 -- 25 IP addresses (25 hosts up) scanned in 1.41 seconds
